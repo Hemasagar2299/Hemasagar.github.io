@@ -1,0 +1,19 @@
+# Hi 👋I'm Hema Sagar Pusarapu 
+
+## About Me
+I am a passionate Data Analyst with 3 years of experience in transforming data into actionable insights. My expertise lies in data visualization, statistical analysis, and using data to drive business decisions. 
+ I am proficient in various analytical tools and programming languages.
+
+## Skills
+- **Data Analysis:** SQL, Excel, Python (Pandas, NumPy)
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Statistical Analysis:** Hypothesis Testing, Regression, ANOVA
+- **Machine Learning:** Scikit-learn
+- **Database Management:** SQL
+- **Other Tools:**  Jupyter Notebooks, R
+
+
+## Contact
+- **Email:** hemasagarp2299@gmail.com
+- **LinkedIn:** https://hema-sagar-pusarapu-18b263217
+
