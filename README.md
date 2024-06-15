@@ -1,7 +1,7 @@
 # Hi 👋I'm Hema Sagar Pusarapu 
 
 ## About Me
-I am a passionate Data Analyst with 2 years of experience in transforming raw data into actionable insights. My expertise lies in data visualization, statistical analysis, and using data to drive business decisions. 
+I am a passionate Data Analyst with 2 years of experience in transforming raw data into actionable insights within a total of 3 years of professional experience. My expertise lies in data visualization, statistical analysis, and using data to drive business decisions. I am proficient in various analytical tools and programming languages.
  I am proficient in various analytical tools and programming languages.
 
 ## Skills
