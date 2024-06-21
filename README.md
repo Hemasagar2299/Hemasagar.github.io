@@ -6,16 +6,3 @@
 <h3>Visit the Portfolio at &nbsp;&nbsp;<a href="https://dharamdudi.github.io" target="blank">https://github.com/Hemasagar2299/Hemasagar.github.io/tree/main</a></h3> 
 
 
-
-
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/power bi.svg" alt="power bi" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" ><img align="center" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" height="30" width="30" ></a> &nbsp;
-<a href="https://github.com/Hemasagar2299" "><img align="center" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jora" height="30" width="30" ></a> &nbsp;
-</p>
