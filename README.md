@@ -3,6 +3,6 @@
 <h2 align="center">Welcome to my Portfolio</h2>
 
 
-<h3>Visit the Portfolio at &nbsp;&nbsp;<a href="https://Hemasagar.github.io" target="blank">https://github.com/Hemasagar2299/Hemasagar.github.io/tree/main</a></h3> 
+<h3>Visit the Portfolio at &nbsp;&nbsp;<a href="https://hemasagar2299.github.io/Hemasagar.github.io/" target="blank">https://github.com/Hemasagar2299/Hemasagar.github.io/tree/main</a></h3> 
 
 
